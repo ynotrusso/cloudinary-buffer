@@ -1,6 +1,6 @@
 {
   "name": "@ynotrusso/cloudinary-buffer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Uploads a file from a buffer to Cloudinary.com",
   "license": "MIT",
   "repository": "ynotrusso/cloudinary-buffer",
