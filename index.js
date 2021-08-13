@@ -4,7 +4,7 @@ const DataUri = require("datauri/parser");
 const path = require("path");
 
 // Function
-module.exports = async function(config, file) {
+module.exports = async function uploadFile(config, file) {
   // Config Cloudinary
   cloudinary.config({
     cloud_name: config.cloudName,
