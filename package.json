@@ -1,0 +1,11 @@
+{
+  "name": "@ynotrusso/cloudinary-buffer",
+  "version": "1.0.0",
+  "description": "Uploads a file from a buffer to Cloudinary.com",
+  "license": "MIT",
+  "repository": "ynotrusso/cloudinary-buffer",
+  "dependencies": {
+    "cloudinary": "^1.26.3",
+    "datauri": "^4.0.1"
+  }
+}
