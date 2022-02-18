@@ -2,9 +2,12 @@
   "name": "@ynotrusso/cloudinary-buffer",
   "version": "1.0.1",
   "description": "Uploads a file from a buffer to Cloudinary.com",
+  "types": "index.d.ts",
   "license": "MIT",
   "repository": "ynotrusso/cloudinary-buffer",
   "dependencies": {
+    "@types/express": "^4.17.13",
+    "@types/multer": "^1.4.7",
     "cloudinary": "^1.26.3",
     "datauri": "^4.0.1"
   }
